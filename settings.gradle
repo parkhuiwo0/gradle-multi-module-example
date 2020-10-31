@@ -1,1 +1,4 @@
 rootProject.name = 'hue-modules'
+include 'module-common'
+include 'module-api'
+
